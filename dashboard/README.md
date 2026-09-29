@@ -22,6 +22,6 @@ The dashboard supports analysis of:
 
 ## Dashboard File
 
-`fleet_risk_dashboard.pbix`
+`fleet_risk_visualization.pbix`
 
 The Power BI file contains an interactive analytical report for exploring fleet safety and driver-risk patterns.
